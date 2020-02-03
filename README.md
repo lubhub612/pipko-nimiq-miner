@@ -1,6 +1,6 @@
-# Pipco Nimiq Miner
+# Pipko Nimiq Miner
 
-This is Pipco Nimiq Miner, using self-designed Nimiq mining protocol. 
+This is Pipko Nimiq Miner, using self-designed Nimiq mining protocol. 
 
 ## Usage
 ``` bash
@@ -15,11 +15,11 @@ node index.js --address=<address> [--name=<name>] [--thread=<thread>] [--server=
     - For MacOS or Windows, [check here for git](https://git-scm.com/downloads) and [here for compilation tools](https://github.com/nodejs/node-gyp#on-mac-os-x).
 3. Install `yarn` globally: `sudo npm install -g yarn`.
 4. Install `gulp` globally:  `yarn global add gulp`.
-5. Clone this repository: `git clone https://github.com/lubhub612/pipco-nimiq-miner`.
-6. Build the project: `cd pipco-nimiq-miner && yarn`.
+5. Clone this repository: `git clone https://github.com/lubhub612/pipko-nimiq-miner`.
+6. Build the project: `cd pipko-nimiq-miner && yarn`.
 7. Config `config.txt`, Run `node index.js`.
 8. Install `pm2` globally: `yarn global add pm2`.
-9. Run  `pm2 start index.js'.
+9. Run  `pm2 start index.js`.
 
 ---
 
